@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sunJ96.github.io</id>
     <title>NeilSun</title>
-    <updated>2020-11-19T07:51:53.136Z</updated>
+    <updated>2020-11-19T07:55:39.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sunJ96.github.io"/>
     <link rel="self" href="https://sunJ96.github.io/atom.xml"/>
@@ -26,23 +26,6 @@
         </link>
         <updated>2020-11-19T07:27:22.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天涯明月刀]]></title>
-        <id>https://sunJ96.github.io/post/a/</id>
-        <link href="https://sunJ96.github.io/post/a/">
-        </link>
-        <updated>2020-11-19T06:45:26.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>《天涯明月刀》是腾讯北极光工作室研发的一款武侠题材的3D大型多人在线角色扮演电脑客户端游戏，于2016年07月01日在中国大陆正式公测 [1]  ，由《天涯明月刀》小说改编而成。<br>
-该作有丰富的社交系统，在游戏中玩家可以拜师和收徒，可以参加帮会，和帮会成员参加任务活动，还可以加入联盟、盟会，体验不同阵营之间的战斗。 [2]<br>
-2020年3月6日，腾讯由《天涯明月刀》网游改编的同名手游《天涯明月刀》获得游戏版号。 [3]</p>
-<p>中文名天涯明月刀原版名称《天涯明月刀》别    名天刀、MOONLIGHT BLADE [4] 游戏类型MMORPG原作品古龙游戏平台PC地    区中国大陆开发商腾讯北极光工作室发行公司腾讯游戏<br>
-北极光工作室发行日期2013年4月29日首次技术测试 [5]<br>
-2013年9月26日限量删档封测（九月鹰飞） [6]<br>
-2014年7月1日删档内测（剑试蔷薇）发行日期2015年5月28日不删档内测（陌上花开）<br>
-2016年7月1日公测 [1] 制作人于海鹏总    监陈可辛主要配音童自荣、翟巍、孙晔、冯骏骅、沈达威、杨梦露、赵铭、夏磊背景音乐赵鸿飞、张雁鸣、梅航、洪峰内容主题武侠玩家人数大型多人游戏画面3D游戏引擎Quicksilver引擎最新版本v2.1.21.59(2020-07-13) [7] 发行阶段公测运营模式道具收费</p>
 ]]></content>
     </entry>
 </feed>
