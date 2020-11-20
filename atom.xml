@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.neilsun.cn</id>
+    <id>http://neilsun.cn</id>
     <title>NeilSun</title>
-    <updated>2020-11-20T02:04:09.101Z</updated>
+    <updated>2020-11-20T02:04:22.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://www.neilsun.cn"/>
-    <link rel="self" href="http://www.neilsun.cn/atom.xml"/>
+    <link rel="alternate" href="http://neilsun.cn"/>
+    <link rel="self" href="http://neilsun.cn/atom.xml"/>
     <subtitle>巴拉巴拉，呱啦呱啦</subtitle>
-    <logo>http://www.neilsun.cn/images/avatar.png</logo>
-    <icon>http://www.neilsun.cn/favicon.ico</icon>
+    <logo>http://neilsun.cn/images/avatar.png</logo>
+    <icon>http://neilsun.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, NeilSun</rights>
     <entry>
         <title type="html"><![CDATA[她]]></title>
-        <id>http://www.neilsun.cn/post/ta/</id>
-        <link href="http://www.neilsun.cn/post/ta/">
+        <id>http://neilsun.cn/post/ta/</id>
+        <link href="http://neilsun.cn/post/ta/">
         </link>
         <updated>2020-11-19T08:17:59.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
